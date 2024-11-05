@@ -1,0 +1,27 @@
+	(1)	(2)
+VARIABLES	Not_checked	Checked
+		
+TC208Q03HA	-0.00928	
+	(0.0130)	
+TC001Q01NA	0.00492	
+	(0.0206)	
+TC020Q03NA	0.174***	
+	(0.0204)	
+TCEDUSHORT	0.00290	
+	(0.00990)	
+o.TC208Q03HA		-
+		
+o.TC001Q01NA		-
+		
+o.TC020Q03NA		-
+		
+o.TCEDUSHORT		-
+		
+o._cons		0
+		(0)
+Constant	-1.328***	
+	(0.0638)	
+		
+Observations	51,252	51,252
+Standard errors in parentheses		
+*** p<0.01, ** p<0.05, * p<0.1		
